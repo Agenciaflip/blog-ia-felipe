@@ -1,16 +1,110 @@
 ---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
 
+const allPosts = await getCollection('blog', ({ data }) => {
+  return data.draft !== true;
+});
+
+const sortedPosts = allPosts.sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+).slice(0, 6); // Top 6 posts recentes
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout
+  title="Blog IA & Automação | Inteligência Artificial e Produtividade"
+  description="Aprenda sobre Inteligência Artificial, automação de processos e produtividade com IA. Tutoriais práticos, cases reais e dicas para implementar IA no seu negócio."
+>
+  <section class="hero">
+    <div class="container">
+      <h1>Transforme seu negócio com IA</h1>
+      <p class="hero-description">
+        Aprenda a implementar Inteligência Artificial de forma prática.<br />
+        Tutoriais, cases reais e automações que funcionam.
+      </p>
+      <a href="#posts" class="btn">Ver Artigos</a>
+    </div>
+  </section>
+
+  <section class="posts-section" id="posts">
+    <div class="container">
+      <h2>Artigos Recentes</h2>
+      <div class="posts-grid">
+        {sortedPosts.map((post) => (
+          <article class="post-card">
+            {post.data.image && (
+              <img
+                src={post.data.image}
+                alt={post.data.title}
+                class="post-card-image"
+                loading="lazy"
+              />
+            )}
+            <div class="post-card-content">
+              {post.data.category && (
+                <span class="post-card-category">{post.data.category}</span>
+              )}
+              <h3 class="post-card-title">
+                <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+              </h3>
+              <p class="post-card-excerpt">{post.data.description}</p>
+              <div class="post-card-meta">
+                <span class="post-card-date">
+                  📅 {new Intl.DateTimeFormat('pt-BR', {
+                    year: 'numeric',
+                    month: 'short',
+                    day: 'numeric'
+                  }).format(post.data.publishDate)}
+                </span>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, var(--primary-dark) 0%, var(--dark-gray) 100%);
+    color: var(--white);
+    padding: 100px 0;
+    text-align: center;
+  }
+
+  .hero h1 {
+    color: var(--white);
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+
+  .hero-description {
+    font-size: 18px;
+    margin-bottom: 30px;
+    opacity: 0.9;
+  }
+
+  .posts-section {
+    padding: 60px 0;
+  }
+
+  .posts-section h2 {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  @media (max-width: 600px) {
+    .hero {
+      padding: 60px 0;
+    }
+
+    .hero h1 {
+      font-size: 32px;
+    }
+
+    .hero-description {
+      font-size: 16px;
+    }
+  }
+</style>

@@ -1,0 +1,205 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { type CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'blog'>;
+}
+
+const { entry } = Astro.props;
+const { title, description, publishDate, author, image, category } = entry.data;
+
+const formattedDate = new Intl.DateTimeFormat('pt-BR', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+}).format(publishDate);
+
+// Schema.org BlogPosting
+const schemaOrg = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": title,
+  "description": description,
+  "image": image ? new URL(image, Astro.site).toString() : undefined,
+  "datePublished": publishDate.toISOString(),
+  "author": {
+    "@type": "Person",
+    "name": author
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Agência Café Online",
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${Astro.site}logo.png`
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": new URL(Astro.url.pathname, Astro.site).toString()
+  }
+};
+---
+
+<BaseLayout title={title} description={description} image={image} type="article">
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(schemaOrg)}></script>
+  </Fragment>
+
+  <article class="blog-post">
+    <div class="container">
+      <header class="blog-post-header">
+        {category && <span class="post-category">{category}</span>}
+        <h1>{title}</h1>
+        <div class="post-meta">
+          <span>📅 {formattedDate}</span>
+          <span>✍️ {author}</span>
+        </div>
+      </header>
+
+      {image && (
+        <div class="blog-post-image">
+          <img src={image} alt={title} />
+        </div>
+      )}
+
+      <div class="blog-post-content">
+        <slot />
+      </div>
+
+      <footer class="blog-post-footer">
+        <a href="/blog" class="btn">← Voltar para o blog</a>
+      </footer>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .blog-post {
+    padding: 40px 0;
+  }
+
+  .blog-post-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .post-category {
+    display: inline-block;
+    background: var(--accent-green);
+    color: var(--primary-dark);
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+
+  .blog-post-header h1 {
+    margin-bottom: 20px;
+  }
+
+  .post-meta {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    color: #666;
+    font-size: 14px;
+  }
+
+  .blog-post-image {
+    margin-bottom: 40px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .blog-post-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .blog-post-content {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 1.8;
+  }
+
+  .blog-post-content :global(h2) {
+    margin-top: 2em;
+    margin-bottom: 1em;
+  }
+
+  .blog-post-content :global(h3) {
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+  }
+
+  .blog-post-content :global(p) {
+    margin-bottom: 1.5em;
+  }
+
+  .blog-post-content :global(img) {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin: 2em 0;
+  }
+
+  .blog-post-content :global(ul),
+  .blog-post-content :global(ol) {
+    margin-bottom: 1.5em;
+    padding-left: 2em;
+  }
+
+  .blog-post-content :global(li) {
+    margin-bottom: 0.5em;
+  }
+
+  .blog-post-content :global(code) {
+    background: var(--light-gray);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9em;
+  }
+
+  .blog-post-content :global(pre) {
+    background: var(--dark-gray);
+    color: var(--white);
+    padding: 20px;
+    border-radius: 5px;
+    overflow-x: auto;
+    margin: 2em 0;
+  }
+
+  .blog-post-content :global(pre code) {
+    background: none;
+    padding: 0;
+    color: inherit;
+  }
+
+  .blog-post-footer {
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 40px;
+    border-top: 1px solid var(--light-gray);
+  }
+
+  @media (max-width: 600px) {
+    .blog-post-header h1 {
+      font-size: 28px;
+    }
+
+    .post-meta {
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .blog-post-content {
+      font-size: 15px;
+    }
+  }
+</style>

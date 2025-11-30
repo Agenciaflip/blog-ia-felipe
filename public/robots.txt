@@ -1,0 +1,19 @@
+# Permitir todos os bots (incluindo IAs)
+User-agent: *
+Allow: /
+
+# Permitir bots de IA explicitamente
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemap
+Sitemap: https://blog.agenciacafeonline.com.br/sitemap-index.xml
