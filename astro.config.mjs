@@ -11,6 +11,12 @@ export default defineConfig({
     sitemap(),
     mdx(),
   ],
+  markdown: {
+    shikiConfig: {
+      theme: 'github-dark',
+      wrap: true,
+    },
+  },
   image: {
     service: {
       entrypoint: 'astro/assets/services/sharp',
