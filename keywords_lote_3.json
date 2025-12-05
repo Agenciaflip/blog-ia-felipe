@@ -1,0 +1,119 @@
+{
+  "lote": 3,
+  "data": "2025-12-05",
+  "total": 15,
+  "estrategia": "Keywords de alto volume + baixa competição + intenção de busca clara",
+  "keywords": [
+    {
+      "keyword": "como usar chatgpt",
+      "volume_estimado": 18000,
+      "categoria": "IA",
+      "razao": "Alto volume, tutorial prático",
+      "slug": "como-usar-chatgpt-guia-2025"
+    },
+    {
+      "keyword": "ia para pequenas empresas",
+      "volume_estimado": 2400,
+      "categoria": "IA",
+      "razao": "Público-alvo direto, baixa competição",
+      "slug": "ia-pequenas-empresas-guia-2025"
+    },
+    {
+      "keyword": "automação atendimento cliente",
+      "volume_estimado": 3200,
+      "categoria": "Automação",
+      "razao": "Pain point específico, comercial",
+      "slug": "automacao-atendimento-cliente-2025"
+    },
+    {
+      "keyword": "crm gratuito whatsapp",
+      "volume_estimado": 1800,
+      "categoria": "WhatsApp",
+      "razao": "Busca específica, intenção de compra",
+      "slug": "crm-gratuito-whatsapp-2025"
+    },
+    {
+      "keyword": "automação instagram",
+      "volume_estimado": 4100,
+      "categoria": "Automação",
+      "razao": "Tendência crescente, baixa comp.",
+      "slug": "automacao-instagram-guia-2025"
+    },
+    {
+      "keyword": "chatbot telegram",
+      "volume_estimado": 2700,
+      "categoria": "IA",
+      "razao": "Nicho específico, tutorial técnico",
+      "slug": "chatbot-telegram-guia-2025"
+    },
+    {
+      "keyword": "api gemini google",
+      "volume_estimado": 3500,
+      "categoria": "IA",
+      "razao": "Tendência 2025, técnico",
+      "slug": "api-gemini-google-tutorial-2025"
+    },
+    {
+      "keyword": "automação facebook messenger",
+      "volume_estimado": 1900,
+      "categoria": "Automação",
+      "razao": "Nicho específico, comercial",
+      "slug": "automacao-facebook-messenger-2025"
+    },
+    {
+      "keyword": "ia para conteúdo",
+      "volume_estimado": 5200,
+      "categoria": "IA",
+      "razao": "Alto volume, criadores conteúdo",
+      "slug": "ia-para-conteudo-guia-2025"
+    },
+    {
+      "keyword": "automação email marketing",
+      "volume_estimado": 2800,
+      "categoria": "Marketing",
+      "razao": "Evergreen, comercial",
+      "slug": "automacao-email-marketing-guia-2025"
+    },
+    {
+      "keyword": "chatbot para loja virtual",
+      "volume_estimado": 1600,
+      "categoria": "IA",
+      "razao": "E-commerce, ROI claro",
+      "slug": "chatbot-loja-virtual-2025"
+    },
+    {
+      "keyword": "ia para linkedin",
+      "volume_estimado": 2200,
+      "categoria": "IA",
+      "razao": "B2B, profissionais",
+      "slug": "ia-para-linkedin-guia-2025"
+    },
+    {
+      "keyword": "automação telegram",
+      "volume_estimado": 1500,
+      "categoria": "Automação",
+      "razao": "Tutorial técnico, bots",
+      "slug": "automacao-telegram-guia-2025"
+    },
+    {
+      "keyword": "ia para seo",
+      "volume_estimado": 3800,
+      "categoria": "Marketing",
+      "razao": "Agências, alto ticket",
+      "slug": "ia-para-seo-guia-2025"
+    },
+    {
+      "keyword": "automação redes sociais",
+      "volume_estimado": 4500,
+      "categoria": "Marketing",
+      "razao": "Social media managers, amplo",
+      "slug": "automacao-redes-sociais-guia-2025"
+    }
+  ],
+  "volume_total_estimado": 59300,
+  "categorias": {
+    "IA": 7,
+    "Automação": 5,
+    "Marketing": 3
+  }
+}
