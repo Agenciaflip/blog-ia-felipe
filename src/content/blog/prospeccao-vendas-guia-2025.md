@@ -110,7 +110,7 @@ Motivo: [justificativa]
 
 ### Setup Sales Navigator
 
-**1. Assinar LinkedIn Sales Navigator:**
+**1. Assinar [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator):**
 - Professional: $99/mês (50 InMails)
 - Team: $149/mês (100 InMails + CRM sync)
 
@@ -166,9 +166,9 @@ Quer receber? Responda SIM que envio.
 ```
 
 **Automação LinkedIn (Tools):**
-- **Phantombuster** ($59/mês): Auto connection requests + mensagens
-- **Expandi** ($99/mês): Sequências automáticas (mais seguro)
-- **Dux-Soup** ($15/mês): Visitar perfis + endorse skills
+- **[Phantombuster](https://phantombuster.com)** ($59/mês): Auto connection requests + mensagens
+- **[Expandi](https://expandi.io)** ($99/mês): Sequências automáticas (mais seguro)
+- **[Dux-Soup](https://www.dux-soup.com)** ($15/mês): Visitar perfis + endorse skills
 
 **⚠️ Atenção:** LinkedIn limita ações/dia:
 - Connection requests: 100/dia

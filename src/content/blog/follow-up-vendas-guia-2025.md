@@ -196,7 +196,7 @@ PS: Quando for momento, estamos aqui 👍
 
 ---
 
-## Automação Follow-up (Zapier/N8N)
+## Automação Follow-up ([Zapier](https://zapier.com)/[N8N](https://n8n.io))
 
 ### Workflow Completo
 
@@ -295,9 +295,9 @@ D+7: Webinar gravado (feature nova)
 ### 4. Tracking Engagement (Saber quando está quente)
 
 **Ferramentas:**
-- Email: Mailtrack, HubSpot (quem abriu, quando, quantas vezes)
-- Proposta: DocuSign, PandaDoc (quais páginas leu)
-- Link: Bitly (clicou em link?)
+- Email: [Mailtrack](https://mailtrack.io), [HubSpot](https://www.hubspot.com) (quem abriu, quando, quantas vezes)
+- Proposta: [DocuSign](https://www.docusign.com), [PandaDoc](https://www.pandadoc.com) (quais páginas leu)
+- Link: [Bitly](https://bitly.com) (clicou em link?)
 
 **Alerta vendedor:**
 ```

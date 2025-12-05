@@ -13,7 +13,7 @@ draft: false
 
 ## O que é Claude AI?
 
-Claude AI é a inteligência artificial da Anthropic focada em segurança, precisão e raciocínio complexo. Lançado em março 2023, Claude se destaca em geração de código (92% HumanEval vs 67% GPT-4), análise de documentos longos (200k tokens de contexto) e tarefas que exigem compliance LGPD/GDPR. Disponível em 3 versões: Haiku (rápido), Sonnet (balanceado) e Opus (máxima qualidade). Grátis até 5 mensagens/dia no claude.ai.
+Claude AI é a inteligência artificial da [Anthropic](https://www.anthropic.com) focada em segurança, precisão e raciocínio complexo. Lançado em março 2023, Claude se destaca em geração de código (92% HumanEval vs 67% GPT-4), análise de documentos longos (200k tokens de contexto) e tarefas que exigem compliance LGPD/GDPR. Disponível em 3 versões: Haiku (rápido), Sonnet (balanceado) e Opus (máxima qualidade). Grátis até 5 mensagens/dia no [claude.ai](https://claude.ai).
 
 Claude revoluciona desenvolvimento ao gerar código production-ready com menos bugs (37% menos que GPT-4 em testes CodeQL), analisar contratos de 300 páginas em 2 minutos e seguir instruções complexas sem "alucinações". Empresas reportam 60-80% redução em code review e ROI 400%+ em automação jurídica.
 

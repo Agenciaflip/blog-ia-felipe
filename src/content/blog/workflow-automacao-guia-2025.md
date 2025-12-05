@@ -103,7 +103,7 @@ Para cada lead:
    → Enviar email personalizado
 ```
 
-**Ferramentas:** Make (iterator), N8N (loop node)
+**Ferramentas:** [Make](https://www.make.com) (iterator), [N8N](https://n8n.io) (loop node)
 
 ### 4. Workflow Paralelo (Simultâneo)
 

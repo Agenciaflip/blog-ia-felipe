@@ -109,7 +109,7 @@ Gere:
 
 **Preço:** $20/mês (Plus) | Grátis (GPT-3.5)
 
-### 2. Surfer SEO - On-Page Otimização
+### 2. [Surfer SEO](https://surferseo.com) - On-Page Otimização
 
 **Funcionalidade:**
 - Content Editor (score real-time)
@@ -124,9 +124,7 @@ Gere:
 
 **Preço:** $89/mês
 
-**Link:** https://surferseo.com
-
-### 3. Clearscope - Content Brief
+### 3. [Clearscope](https://www.clearscope.io) - Content Brief
 
 **Melhor para:** Criar briefs para redatores
 

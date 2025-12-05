@@ -45,7 +45,7 @@ Este artigo é um guia técnico completo baseado em implementações reais. Voc�
 
 ## Stack tecnológica recomendada
 
-### 1. Evolution API (Integração WhatsApp)
+### 1. [Evolution API](https://evolution-api.com) (Integração WhatsApp)
 
 A **Evolution API** é uma solução open-source para conectar sistemas ao WhatsApp Business sem depender da API oficial (que custa caro). Funciona através de espelhamento do WhatsApp Web.
 
@@ -60,9 +60,9 @@ A **Evolution API** é uma solução open-source para conectar sistemas ao Whats
 - Gerar QR Code e conectar número WhatsApp Business
 - Configurar webhook apontando para seu servidor
 
-### 2. OpenAI GPT-4 (Inteligência Artificial)
+### 2. [OpenAI GPT-4](https://openai.com) (Inteligência Artificial)
 
-O **GPT-4o** da OpenAI é o modelo de linguagem mais avançado disponível comercialmente em 2025. Ele entende contexto, mantém conversas naturais e pode ser especializado via prompts.
+O **GPT-4o** da [OpenAI](https://platform.openai.com) é o modelo de linguagem mais avançado disponível comercialmente em 2025. Ele entende contexto, mantém conversas naturais e pode ser especializado via prompts.
 
 **Características:**
 - Custo: ~R$ 0,10 por 1000 mensagens (input + output)
@@ -84,9 +84,9 @@ Seu **servidor** recebe webhooks da Evolution API, processa com GPT-4, e retorna
 - Nginx/Traefik como reverse proxy
 - VPS com 2GB RAM (suficiente para 1000+ conversas/dia)
 
-### 4. Supabase (Banco de dados)
+### 4. [Supabase](https://supabase.com) (Banco de dados)
 
-**Supabase** é um PostgreSQL gerenciado grátis até 500MB. Ideal para armazenar:
+**[Supabase](https://supabase.com)** é um PostgreSQL gerenciado grátis até 500MB. Ideal para armazenar:
 
 - Histórico de conversas
 - Contexto do cliente (nome, pedidos anteriores)
@@ -142,8 +142,8 @@ docker-compose up -d
 ### Opção B: Cloud (R$ 50-150/mês)
 
 Serviços gerenciados que já entregam Evolution API pronta:
-- **Z-API** (zapi.com.br)
-- **WPPConnect Cloud**
+- **[Z-API](https://z-api.io)** (zapi.com.br)
+- **[WPPConnect Cloud](https://wppconnect.io)**
 
 **Nossa recomendação:** Z-API para começar (R$ 50/mês, suporte em português).
 
@@ -159,7 +159,7 @@ Serviços gerenciados que já entregam Evolution API pronta:
 
 ## Passo 2: Criando conta OpenAI
 
-1. Cadastre-se em: https://platform.openai.com
+1. Cadastre-se em: [OpenAI Platform](https://platform.openai.com)
 2. Vá em **API Keys** → Create new secret key
 3. Copie e salve (não será exibida novamente!)
 4. Adicione créditos: **Settings → Billing** (mínimo: $10)
@@ -470,6 +470,8 @@ python servidor_chatbot.py
 - [Evolution API Docs](https://doc.evolution-api.com)
 - [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling)
 - [Supabase PostgreSQL](https://supabase.com/docs)
+- [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp)
+- [Flask Documentation](https://flask.palletsprojects.com)
 
 ### Comunidades:
 - Discord Evolution API Brasil

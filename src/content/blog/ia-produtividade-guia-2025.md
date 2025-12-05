@@ -23,17 +23,17 @@ Diferença: Profissional tradicional (8h/dia 60% operacional) vs IA-powered (8h/
 
 ### Ferramentas Essenciais (R$ 100-300/mês)
 
-**1. ChatGPT Plus ($20/mês)**
+**1. [ChatGPT Plus](https://openai.com/chatgpt) ($20/mês)**
 - **Usar para:** Escrita, brainstorm, análise, coding
 - **Features:** GPT-4o, Advanced Data Analysis, DALL-E 3
 - **ROI:** Economiza 10h/semana
 
-**2. Not ion AI ($10/mês)**
+**2. [Notion AI](https://www.notion.so) ($10/mês)**
 - **Usar para:** Notes reuniões, wikis equipe, gestão projetos
 - **Features:** IA embedded (resume, gera, traduz)
 - **ROI:** Centraliza conhecimento → -50% busca informação
 
-**3. Grammarly Premium ($12/mês)**
+**3. [Grammarly Premium](https://www.grammarly.com) ($12/mês)**
 - **Usar para:** Revisão textos, tom profissional
 - **Features:** Gramática, clareza, engajamento
 - **ROI:** Emails profissionais 2x mais rápido

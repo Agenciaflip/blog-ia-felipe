@@ -69,7 +69,7 @@ Público C (enterprise):
 "CRM compliance LGPD + API + SSO"
 ```
 
-**Ferramenta:** Ad Creative AI ($29/mês)
+**Ferramenta:** [AdCreative.ai](https://adcreative.ai) ($29/mês)
 
 ### 3. Análise Competidores (Spy Tools + IA)
 
@@ -126,7 +126,7 @@ CTA: Urgência
 Gere 5 variações (A/B test)
 ```
 
-### 2. Midjourney - Criativos Visuais
+### 2. [Midjourney](https://www.midjourney.com) - Criativos Visuais
 
 **Melhor para:** Imagens produto, lifestyle
 

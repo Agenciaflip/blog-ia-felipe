@@ -553,7 +553,7 @@ Abordar: Por que hesitou? (objeções específicas)
 
 ### 1. ChatGPT Playground (OpenAI)
 
-**URL:** https://platform.openai.com/playground
+**URL:** [https://platform.openai.com/playground](https://platform.openai.com/playground)
 
 **Recursos:**
 - ✅ Testar parâmetros (temperature, top_p)

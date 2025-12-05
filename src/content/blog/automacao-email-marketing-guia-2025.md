@@ -37,15 +37,15 @@ Tutorial completo vendas: [Automação de Vendas](/blog/automacao-vendas-guia-20
 
 ## 5 Ferramentas Testadas
 
-### 1. Mailchimp
+### 1. [Mailchimp](https://mailchimp.com)
 **Preço:** Grátis (500 contatos) / $13/mês
 **Ideal para:** Pequenos negócios, newsletters
 
-### 2. ActiveCampaign
+### 2. [ActiveCampaign](https://www.activecampaign.com)
 **Preço:** $29/mês (Lite) / $49/mês (Plus)
 **Ideal para:** E-commerce, vendas B2B complexas
 
-### 3. HubSpot
+### 3. [HubSpot](https://www.hubspot.com)
 **Preço:** Grátis / $45/mês
 **Ideal para:** Startups com CRM integrado
 

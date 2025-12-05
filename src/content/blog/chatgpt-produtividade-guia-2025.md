@@ -38,6 +38,8 @@ Para cada urgente: Sugerir resposta rápida (50 palavras)
 
 **Economia:** 40 min/dia → 5 min
 
+Explore ferramentas de [automação tarefas](/blog/automacao-tarefas-guia-2025/) para aumentar ainda mais sua produtividade.
+
 ### 2. Reunião → Action Items
 
 ```
@@ -160,6 +162,8 @@ Formato: Copiar/colar Google Docs
 ```
 
 **Reutilizar:** 100x → Economiza 50h/mês
+
+Veja mais sobre [automação processos](/blog/automacao-processos-guia-2025/) para workflows completos.
 
 ### 9. Apresentação Slides
 

@@ -75,9 +75,9 @@ D+14: LinkedIn connection + InMail
 ```
 
 **Ferramentas:**
-- Email: Instantly.ai ($37/mês)
-- WhatsApp: Evolution API + N8N
-- CRM: Pipedrive (registro todos touchpoints)
+- Email: [Instantly.ai](https://instantly.ai) ($37/mês)
+- WhatsApp: Evolution API + [N8N](https://n8n.io)
+- CRM: [Pipedrive](https://www.pipedrive.com) (registro todos touchpoints)
 
 **Resultado:** Taxa resposta 8% → 32% (+300%)
 

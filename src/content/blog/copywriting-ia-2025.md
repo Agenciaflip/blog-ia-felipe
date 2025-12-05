@@ -13,7 +13,7 @@ draft: false
 
 ## O que é Copywriting com IA?
 
-Copywriting com IA usa ChatGPT, Jasper AI e Copy.ai para gerar headlines, emails de vendas, landing pages e anúncios persuasivos baseados em frameworks comprovados (AIDA, PAS, BAB) em minutos vs horas manual. Prompts estruturados alimentam IA com avatar cliente + produto + objeções = copy que converte 3-5x mais que genérico. Empresas economizam R$ 3-8k/mês em copywriters freelance e testam 50+ variações A/B vs 3-5 manuais para encontrar vencedoras.
+Copywriting com IA usa [ChatGPT](https://chat.openai.com), [Jasper AI](https://www.jasper.ai) e [Copy.ai](https://www.copy.ai) para gerar headlines, emails de vendas, landing pages e anúncios persuasivos baseados em frameworks comprovados (AIDA, PAS, BAB) em minutos vs horas manual. Prompts estruturados alimentam IA com avatar cliente + produto + objeções = copy que converte 3-5x mais que genérico. Empresas economizam R$ 3-8k/mês em copywriters freelance e testam 50+ variações A/B vs 3-5 manuais para encontrar vencedoras.
 
 Diferença crítica: IA sozinha = genérico (10% conversão) vs IA + prompts avançados + humano editando = copy profissional (30-40% conversão).
 

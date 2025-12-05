@@ -508,10 +508,10 @@ const recomendacao = await chatgpt.complete(prompt);
 ### Setup Intermediário (R$ 100-500/mês)
 
 **Ferramentas:**
-- Evolution API self-hosted ($0 software + $20 VPS)
-- N8N self-hosted ($0)
-- ChatGPT API ($50/mês uso médio)
-- Supabase PostgreSQL (grátis até 500MB)
+- [Evolution API](https://evolution-api.com) self-hosted ($0 software + $20 VPS)
+- [N8N](https://n8n.io) self-hosted ($0)
+- [ChatGPT API](https://openai.com/api) ($50/mês uso médio)
+- [Supabase](https://supabase.com) PostgreSQL (grátis até 500MB)
 
 **Features:**
 - ✅ Chatbot IA básico

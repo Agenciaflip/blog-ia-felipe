@@ -47,7 +47,7 @@ Publicar (WordPress API)
 
 ## Top 10 Ferramentas Conteúdo IA
 
-### 1. ChatGPT (OpenAI) - Texto
+### 1. [ChatGPT](https://chat.openai.com) (OpenAI) - Texto
 
 **Melhor para:** Blog posts, scripts, emails
 **Custo:** $20/mês (Plus) ou $25/mês (Pro)
@@ -75,7 +75,7 @@ SEO: Densidade keyword 1.5%, LSI keywords, meta description 155 chars
 
 **Output:** Artigo completo pronto revisar
 
-### 2. Jasper.ai - Marketing Copy
+### 2. [Jasper.ai](https://www.jasper.ai) - Marketing Copy
 
 **Melhor para:** Ads, landing pages, product descriptions
 **Custo:** $49-125/mês
@@ -91,7 +91,7 @@ SEO: Densidade keyword 1.5%, LSI keywords, meta description 155 chars
 
 **Uso:** Gerar 50 variações headline → Testar todas
 
-### 4. Midjourney - Imagens
+### 4. [Midjourney](https://www.midjourney.com) - Imagens
 
 **Melhor para:** Criativos blog, social media, ads
 **Custo:** $10-60/mês

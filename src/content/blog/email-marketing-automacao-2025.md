@@ -13,7 +13,7 @@ draft: false
 
 ## O que é Email Marketing Automação?
 
-Email marketing automação usa workflows (Mailchimp, ConvertKit, ActiveCampaign) + IA (ChatGPT personalização) para enviar sequências emails baseadas triggers: novo cadastro → welcome sequence 5 emails, carrinho abandonado → recuperação 3 emails, cliente inativo → reativação 4 emails sem intervenção manual. Automação executa 24/7 com personalização (nome, comportamento, preferências) aumentando conversão 200%+, taxa abertura 45%+ e ROI 4.200% vs email blasts manuais sem estratégia.
+Email marketing automação usa workflows ([Mailchimp](https://mailchimp.com), [ConvertKit](https://convertkit.com), [ActiveCampaign](https://www.activecampaign.com)) + IA ([ChatGPT](https://chat.openai.com) personalização) para enviar sequências emails baseadas triggers: novo cadastro → welcome sequence 5 emails, carrinho abandonado → recuperação 3 emails, cliente inativo → reativação 4 emails sem intervenção manual. Automação executa 24/7 com personalização (nome, comportamento, preferências) aumentando conversão 200%+, taxa abertura 45%+ e ROI 4.200% vs email blasts manuais sem estratégia.
 
 Diferença: Email blast manual (enviar todos 1 msg = 2% conversão) vs sequência automatizada (nurture 14 dias = 18% conversão).
 
@@ -214,7 +214,7 @@ Se 0-6 (Detrator):
 
 ## Ferramentas Email Automação
 
-### 1. Mailchimp ($13-350/mês)
+### 1. [Mailchimp](https://mailchimp.com) ($13-350/mês)
 
 **Prós:**
 - Interface fácil (drag-and-drop)
@@ -226,7 +226,7 @@ Se 0-6 (Detrator):
 
 **Ideal:** Pequenas empresas
 
-### 2. ConvertKit ($29-59/mês)
+### 2. [ConvertKit](https://convertkit.com) ($29-59/mês)
 
 **Prós:**
 - Focado creators (bloggers, cursos)
@@ -244,7 +244,7 @@ Se 0-6 (Detrator):
 
 **Melhor para:** B2B complexo
 
-### 4. Klaviyo ($20-700/mês)
+### 4. [Klaviyo](https://www.klaviyo.com) ($20-700/mês)
 
 **Prós:**
 - E-commerce focus

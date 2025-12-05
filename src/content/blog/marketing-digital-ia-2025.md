@@ -333,15 +333,15 @@ IA otimiza (melhores performers)
 
 ### Analytics IA
 
-1. **Google Analytics 4 + BigQuery ML**
+1. **[Google Analytics 4](https://analytics.google.com) + BigQuery ML**
    - Predição conversão/churn
    - Segmentação automática
 
-2. **Tableau + Einstein AI**
+2. **[Tableau](https://www.tableau.com) + Einstein AI**
    - Dashboards preditivos
    - Anomaly detection
 
-3. **Mixpanel + AI Insights**
+3. **[Mixpanel](https://mixpanel.com) + AI Insights**
    - User behavior analysis
    - Funnel optimization
 

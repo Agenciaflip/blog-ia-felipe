@@ -288,27 +288,27 @@ if not data:
 
 ## Ferramentas IA Trabalho (Stack)
 
-### ChatGPT (OpenAI)
+### [ChatGPT](https://openai.com/chatgpt) (OpenAI)
 - **Melhor para:** Escrita, coding, análise
 - **Custo:** $20/mês (Plus) ou $25/mês (Pro)
 - **Limite:** 50-80 prompts/3h
 
-### Gemini (Google)
+### [Gemini](https://gemini.google.com) (Google)
 - **Melhor para:** Research, Google Workspace integration
 - **Custo:** $20/mês (Advanced) ou grátis (básico)
 - **Destaque:** Pesquisa tempo real (Google Search)
 
-### Claude (Anthropic)
+### [Claude](https://claude.ai) (Anthropic)
 - **Melhor para:** Documentos longos (200k tokens), análise complexa
 - **Custo:** $20/mês (Pro)
 - **Destaque:** Contexto maior (GPT-4: 128k, Claude: 200k)
 
-### Microsoft Copilot
+### [Microsoft Copilot](https://www.microsoft.com/microsoft-365/microsoft-copilot)
 - **Melhor para:** Office 365 (Word, Excel, PowerPoint)
 - **Custo:** $30/mês (Microsoft 365 Copilot)
 - **Destaque:** Integração nativa Office
 
-### GitHub Copilot
+### [GitHub Copilot](https://github.com/features/copilot)
 - **Melhor para:** Programação (autocomplete código)
 - **Custo:** $10/mês
 - **Destaque:** 30-40% código escrito por IA

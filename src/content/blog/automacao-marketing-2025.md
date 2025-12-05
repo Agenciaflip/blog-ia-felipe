@@ -36,7 +36,7 @@ Espera 24h → Email 2: "10% OFF válido 24h"
 Espera 3 dias → Email 3: "Últimas unidades"
 ```
 
-**Ferramentas:** Klaviyo ($45/mês) ou Mailchimp Automations
+**Ferramentas:** [Klaviyo](https://www.klaviyo.com) ($45/mês) ou [Mailchimp](https://mailchimp.com) Automations
 
 **ROI Real:** E-commerce moda - Taxa recuperação 4% → 18% (+350%)
 
@@ -64,9 +64,9 @@ Se score >= 70:
 ### 3. Social Media Posting (30 dias antecipado)
 
 **Stack:**
-- ChatGPT: Gera 30 posts (LinkedIn/Instagram)
-- Buffer/Hootsuite: Agenda automaticamente
-- Canva API: Cria imagens
+- [ChatGPT](https://chat.openai.com): Gera 30 posts (LinkedIn/Instagram)
+- [Buffer](https://buffer.com)/[Hootsuite](https://www.hootsuite.com): Agenda automaticamente
+- [Canva](https://www.canva.com) API: Cria imagens
 
 **Workflow:**
 ```

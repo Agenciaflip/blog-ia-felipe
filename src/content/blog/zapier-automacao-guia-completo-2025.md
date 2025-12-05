@@ -73,7 +73,7 @@ Action 3: Adicionar linha Google Sheets
 
 ## Top 20 Integrações Zapier Mais Usadas
 
-### 1. Gmail + Google Sheets
+### 1. [Gmail](https://mail.google.com) + [Google Sheets](https://sheets.google.com)
 **Caso uso:** Salvar emails importantes automaticamente
 
 ```
@@ -84,7 +84,7 @@ Colunas: Remetente, Assunto, Corpo, Data
 
 **ROI:** Organização automática de leads/clientes
 
-### 2. Google Forms + Slack
+### 2. [Google Forms](https://forms.google.com) + [Slack](https://slack.com)
 **Caso uso:** Notificações instantâneas de formulários
 
 ```

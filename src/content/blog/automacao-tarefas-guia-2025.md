@@ -130,14 +130,14 @@ Diferença vs automação processos: Automação tarefas = ações individuais i
 
 ### macOS
 
-**1. Keyboard Maestro ($36)**
+**1. [Keyboard Maestro](https://www.keyboardmaestro.com) ($36)**
 - Macros teclado ilimitadas
 - Triggers: Hotkey, tempo, app aberto, arquivo criado
 - Actions: Clipboard, shell script, GUI automation
 
 **Exemplo:** Ctrl+Shift+E = Abrir email pré-formatado
 
-**2. Hazel ($42)**
+**2. [Hazel](https://www.noodlesoft.com) ($42)**
 - Automação pastas (file watcher)
 - Regras: Se (condição) → Então (ação)
 

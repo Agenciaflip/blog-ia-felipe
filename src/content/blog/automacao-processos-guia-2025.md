@@ -25,7 +25,7 @@ Diferença crítica: Automação processos = orquestração multi-sistemas (work
 
 **O que é:** Metodologia gestão processos ponta-a-ponta
 
-**Ferramentas:** Camunda, ProcessMaker, Bizagi
+**Ferramentas:** [Camunda](https://camunda.com), [ProcessMaker](https://www.processmaker.com), [Bizagi](https://www.bizagi.com)
 
 **Exemplo processo:**
 ```
@@ -45,7 +45,7 @@ Onboarding Cliente:
 
 **O que é:** Bots software imitam ações humanas
 
-**Ferramentas:** UiPath, Automation Anywhere, Blue Prism
+**Ferramentas:** [UiPath](https://www.uipath.com), [Automation Anywhere](https://www.automationanywhere.com), [Blue Prism](https://www.blueprism.com)
 
 **Exemplo:**
 ```

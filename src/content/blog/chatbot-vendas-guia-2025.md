@@ -143,7 +143,7 @@ Até lá! 👋
 
 **Tutorial rápido:**
 ```
-1. https://typebot.io → Criar conta
+1. [Typebot](https://typebot.io) → Criar conta
 2. Template: Lead Qualification
 3. Adicionar OpenAI block (ChatGPT)
 4. Configurar perguntas BANT
