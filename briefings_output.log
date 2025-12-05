@@ -1,0 +1,51 @@
+🔍 Pesquisando 50 keywords no Brasil...
+
+📝 Gerando 50 briefings...
+
+Keyword                        Volume       CPC        Score      Status
+--------------------------------------------------------------------------------
+claude ai                         165,000/mês  R$   0.55      90.8  🔥
+gemini ia                       1,220,000/mês  R$   0.06      73.2  🔥
+funil de vendas                    27,100/mês  R$   2.57      69.6  🔥
+evolution api                      18,100/mês  R$   1.88      34.0  🔥
+chatbot whatsapp                    8,100/mês  R$   3.55      28.8  🔥
+api whatsapp                        9,900/mês  R$   2.16      21.4  🔥
+crm vendas                          2,900/mês  R$   5.13      14.9  🔥
+automação whatsapp                  2,900/mês  R$   3.59      10.4  🔥
+prompts chatgpt                    12,100/mês  R$   0.67       8.1  ⭐
+ia para estudar                     3,600/mês  R$   0.85       3.1  ✅
+integração api                        320/mês  R$   8.03       2.6  ✅
+n8n whatsapp                          720/mês  R$   2.81       2.0  ✅
+ferramentas ia                        880/mês  R$   2.20       1.9  ✅
+ia para vendas                        320/mês  R$   4.82       1.5  ✅
+chatbot whatsapp grátis               720/mês  R$   1.88       1.4  ✅
+rpa automação                         720/mês  R$   1.30       0.9  ⏳
+seo ia                                320/mês  R$   2.69       0.9  ⏳
+ia para criar anúncios                170/mês  R$   4.28       0.7  ⏳
+zapier whatsapp                       390/mês  R$   1.19       0.5  ⏳
+make automação                        720/mês  R$   0.54       0.4  ⏳
+follow up vendas                      110/mês  R$   3.33       0.4  ⏳
+como criar chatbot whatsapp           140/mês  R$   2.30       0.3  ⏳
+n8n tutorial                          210/mês  R$   1.39       0.3  ⏳
+marketing digital ia                   50/mês  R$   5.41       0.3  ⏳
+prospecção vendas                     110/mês  R$   2.25       0.2  ⏳
+automação marketing                   110/mês  R$   2.18       0.2  ⏳
+chatgpt produtividade                  30/mês  R$   7.24       0.2  ⏳
+ia para trabalho                      170/mês  R$   1.11       0.2  ⏳
+automação processos                    90/mês  R$   2.07       0.2  ⏳
+whatsapp business automação            40/mês  R$   4.60       0.2  ⏳
+zapier automação                      110/mês  R$   1.53       0.2  ⏳
+chatgpt marketing                      40/mês  R$   3.88       0.2  ⏳
+automação python                      210/mês  R$   0.66       0.1  ⏳
+ia produtividade                       30/mês  R$   3.09       0.1  ⏳
+chatbot vendas                         30/mês  R$   2.96       0.1  ⏳
+automação vendas                       40/mês  R$   1.66       0.1  ⏳
+conteúdo ia                            50/mês  R$   1.16       0.1  ⏳
+copywriting ia                         50/mês  R$   0.94       0.0  ⏳
+Traceback (most recent call last):
+  File "/Users/felipezanonimini/Desktop/automacoes/blog-ia-felipe/scripts/gerar_50_briefings.py", line 404, in <module>
+    main()
+  File "/Users/felipezanonimini/Desktop/automacoes/blog-ia-felipe/scripts/gerar_50_briefings.py", line 306, in main
+    score = (volume * cpc) / 1000
+             ~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'NoneType'

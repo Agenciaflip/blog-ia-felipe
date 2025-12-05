@@ -1,0 +1,116 @@
+# BRIEFING - ia para estudar
+
+**Categoria:** Produtividade
+**Data:** 30/11/2025 18:01
+**Prioridade:** ✅ MÉDIA
+
+---
+
+## 📊 DADOS BRASIL
+
+| Métrica | Valor | Análise |
+|---------|-------|---------|
+| Volume mensal | **3,600** buscas/mês | 🔥 ALTO |
+| CPC (Google Ads) | **R$ 0.85** | BAIXO |
+| Competition | **HIGH** | ALTA |
+| Score (Oportunidade) | **3.1** | ✅ MÉDIA |
+
+---
+
+## 💰 ANÁLISE COMERCIAL
+
+**Valor por lead:** R$ 5-30 (baixo valor)
+
+**Intenção de busca:** 🔍 Informacional (pesquisando)
+
+**ROI esperado (12 meses):**
+- Tráfego estimado: 180 - 540 visitas/mês (após rankear)
+- Leads: 3 - 18/mês
+- Receita potencial: R$ 7,200 - R$ 90,000/ano
+
+---
+
+## ✍️ ESTRUTURA RECOMENDADA
+
+### 📌 Title Tag (50-60 chars):
+Ia Para Estudar: Guia Completo 2025
+
+### 📝 Meta Description (150-160 chars):
+Aprenda ia para estudar com tutorial completo, código funcional e cases reais. Implementação em 3-5 horas. ROI 200%+ comprovado.
+
+### 🎯 H1:
+Ia Para Estudar: Guia Completo 2025
+
+### 📋 H2 (Featured Snippet - 40-60 palavras):
+**Ia para estudar?**
+
+[Resposta direta: passos numerados OU definição concisa]
+
+### 📖 Estrutura do Artigo:
+
+**H2:** Por que ia é importante em 2025
+**H2:** Principais ferramentas/métodos para ia para estudar
+**H2:** Tutorial passo a passo (código quando aplicável)
+**H2:** 3 casos reais de sucesso (ROI + métricas)
+**H2:** Quanto custa: análise financeira completa
+**H2:** Erros comuns e como evitar
+**H2:** Conclusão + próximos passos
+
+---
+
+## 🎨 DIRETRIZES DE CONTEÚDO
+
+**Palavra count:** 2.000-2.500 palavras
+
+**Tom:** Profissional mas acessível (como conversa com especialista)
+
+**Incluir obrigatoriamente:**
+- ✅ Código funcional (Python/JavaScript quando aplicável)
+- ✅ 2-3 cases genéricos com ROI real
+- ✅ Tabelas comparativas (ferramentas, custos, etc)
+- ✅ Listas numeradas (Google adora)
+- ✅ Screenshots/diagramas (quando útil)
+
+**CTA (Call-to-Action):**
+Sutil no final: "Precisa de ajuda para implementar? A Agência Café Online já automatizou [tema] para 20+ empresas."
+
+---
+
+## 🔑 KEYWORDS LSI (usar naturalmente):
+
+- ia para estudar tutorial
+- ia para estudar passo a passo
+- ia para estudar 2025
+- como usar ia para estudar
+- ia para estudar grátis
+
+---
+
+## 🎯 OBJETIVOS SEO
+
+1. **Featured Snippet:** Resposta 40-60 palavras no topo (60% chance)
+2. **Top 10:** Rankear primeira página em 3-6 meses
+3. **Internal Links:** Linkar para 3-5 artigos relacionados
+4. **Backlinks:** Criar conteúdo "linkable" (infográfico, ferramenta, estudo)
+
+---
+
+## 📈 KPIs (12 meses):
+
+- **Impressões:** 12,960 - 21,600
+- **Cliques:** 21,600 - 64,800
+- **Posição média:** Top 5-10
+- **CTR:** 15-25%
+
+---
+
+## 💡 DICAS ESPECÍFICAS:
+
+⚡ Keyword HOT! Volume alto (3,600/mês) = prioridade máxima
+
+🎯 Competition HIGH = difícil rankear, foque em long-tail
+
+---
+
+**Custo desta pesquisa:** $0.0008 (R$ 0.004)
+**Próximo passo:** Criar artigo seguindo esta estrutura
