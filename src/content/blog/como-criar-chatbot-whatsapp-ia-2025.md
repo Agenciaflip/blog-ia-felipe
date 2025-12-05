@@ -47,7 +47,7 @@ Este artigo é um guia técnico completo baseado em implementações reais. Voc�
 
 ### 1. [Evolution API](https://evolution-api.com) (Integração WhatsApp)
 
-A **Evolution API** é uma solução open-source para conectar sistemas ao WhatsApp Business sem depender da API oficial (que custa caro). Funciona através de espelhamento do WhatsApp Web.
+A **Evolution API** é uma solução open-source para conectar sistemas ao WhatsApp Business sem depender da API oficial (que custa caro). Funciona através de espelhamento do WhatsApp Web. Para automações avançadas, explore também [automação com IA](/blog/ia-automacao-2025/).
 
 **Vantagens:**
 - Grátis (self-hosted) ou R$ 50-150/mês (cloud)
@@ -79,7 +79,7 @@ O **GPT-4o** da [OpenAI](https://platform.openai.com) é o modelo de linguagem m
 Seu **servidor** recebe webhooks da Evolution API, processa com GPT-4, e retorna respostas.
 
 **Tecnologias:**
-- Python 3.11+ com Flask ou FastAPI
+- Python 3.11+ com Flask ou FastAPI (veja [automação Python](/blog/automacao-python-guia-2025/))
 - PM2 para manter servidor sempre rodando
 - Nginx/Traefik como reverse proxy
 - VPS com 2GB RAM (suficiente para 1000+ conversas/dia)
@@ -145,7 +145,7 @@ Serviços gerenciados que já entregam Evolution API pronta:
 - **[Z-API](https://z-api.io)** (zapi.com.br)
 - **[WPPConnect Cloud](https://wppconnect.io)**
 
-**Nossa recomendação:** Z-API para começar (R$ 50/mês, suporte em português).
+**Nossa recomendação:** Z-API para começar (R$ 50/mês, suporte em português). Para criar workflows completos, veja [workflow automação](/blog/workflow-automacao-guia-2025/).
 
 ### Conectar WhatsApp Business
 
@@ -170,7 +170,7 @@ Serviços gerenciados que já entregam Evolution API pronta:
 
 ## Passo 3: Desenvolvendo o prompt (CRÍTICO)
 
-O **prompt** é o cérebro do chatbot. É onde você define comportamento, tom de voz, regras e conhecimento.
+O **prompt** é o cérebro do chatbot. É onde você define comportamento, tom de voz, regras e conhecimento. Para dominar prompts eficazes, veja nosso [guia completo de prompts ChatGPT](/blog/prompts-chatgpt-guia-completo-2025/).
 
 ### Anatomia de um prompt profissional
 
@@ -457,10 +457,10 @@ python servidor_chatbot.py
 ## Próximos passos após implementação
 
 1. **Monitorar primeiras 100 conversas** (painel admin)
-2. **Ajustar prompt** baseado em feedbacks reais
+2. **Ajustar prompt** baseado em feedbacks reais (veja [copywriting IA](/blog/copywriting-ia-2025/))
 3. **Adicionar tools específicas** do seu negócio
-4. **Implementar analytics** (Mixpanel, Amplitude)
-5. **Escalar para múltiplos atendentes** (se volume >500/dia)
+4. **Implementar analytics** (Mixpanel, Amplitude) - aprenda [IA para marketing](/blog/automacao-marketing-2025/)
+5. **Escalar para múltiplos atendentes** (se volume >500/dia) usando [N8N](/blog/n8n-automacao-guia-completo-2025/)
 
 ---
 
@@ -474,12 +474,12 @@ python servidor_chatbot.py
 - [Flask Documentation](https://flask.palletsprojects.com)
 
 ### Comunidades:
-- Discord Evolution API Brasil
+- [Discord Evolution API Brasil](https://discord.gg/evolutionapi)
 - WhatsApp API Developers (Telegram)
 
 ### Ferramentas úteis:
-- **Postman:** Testar webhooks manualmente
-- **Ngrok:** Expor servidor local para testes
+- **[Postman](https://www.postman.com):** Testar webhooks manualmente
+- **[Ngrok](https://ngrok.com):** Expor servidor local para testes
 - **PM2:** Gerenciar processos Node.js/Python
 
 ---

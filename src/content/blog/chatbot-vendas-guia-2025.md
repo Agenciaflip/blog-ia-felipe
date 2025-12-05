@@ -131,9 +131,9 @@ Até lá! 👋
 
 **Prós:**
 - ✅ Open-source (self-host grátis)
-- ✅ ChatGPT nativo
+- ✅ [ChatGPT](https://chat.openai.com) nativo
 - ✅ Lógica condicional avançada
-- ✅ Calendly integration
+- ✅ [Calendly](https://calendly.com) integration
 - ✅ Webhooks ilimitados
 
 **Contras:**

@@ -332,11 +332,11 @@ ers (R$ 54k/mês)
 
 ## Ferramentas Complementares
 
-- **ChatGPT:** Copy, ideias, estratégia
-- **Midjourney:** Criativos visuais
-- **Jasper.ai:** Templates marketing (alternativa)
-- **Copy.ai:** Copywriting específico
-- **Surfer SEO:** Otimização SEO (integra IA)
+- **[ChatGPT](https://chat.openai.com):** Copy, ideias, estratégia
+- **[Midjourney](https://www.midjourney.com):** Criativos visuais
+- **[Jasper.ai](https://www.jasper.ai):** Templates marketing (alternativa)
+- **[Copy.ai](https://www.copy.ai):** Copywriting específico
+- **[Surfer SEO](https://surferseo.com):** Otimização SEO (integra IA)
 
 ---
 

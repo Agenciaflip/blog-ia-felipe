@@ -31,7 +31,7 @@ D - Desejo: Solução + benefícios
 A - Ação: CTA urgente
 ```
 
-**Prompt ChatGPT:**
+**Prompt [ChatGPT](https://chat.openai.com):**
 ```
 Produto: CRM para corretores
 Avatar: Corretor 35-50 anos, perde vendas follow-up manual

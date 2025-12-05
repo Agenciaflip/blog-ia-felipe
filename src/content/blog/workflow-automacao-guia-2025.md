@@ -98,7 +98,7 @@ Novo lead →
 Google Sheets: 100 leads
    ↓
 Para cada lead:
-   → Enriquecer dados (Clearbit API)
+   → Enriquecer dados ([Clearbit API](https://clearbit.com))
    → Salvar CRM
    → Enviar email personalizado
 ```

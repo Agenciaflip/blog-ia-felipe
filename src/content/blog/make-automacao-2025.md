@@ -13,7 +13,7 @@ draft: false
 
 ## O que é Make (Integromat)?
 
-Make (antigo Integromat) é plataforma no-code que conecta 1.000+ aplicativos (Google Sheets, WhatsApp, CRM, IA) via workflows visuais para automatizar tarefas complexas sem programar. Interface drag-and-drop permite criar cenários avançados (loops, condições, tratamento erros) que Zapier não suporta, com preço 50-70% menor. Empresas economizam 30-50h/semana automatizando lead nurturing, sincronização dados e processos multicanal com ROI 500%+ vs contratar assistente.
+[Make](https://www.make.com) (antigo Integromat) é plataforma no-code que conecta 1.000+ aplicativos (Google Sheets, WhatsApp, CRM, IA) via workflows visuais para automatizar tarefas complexas sem programar. Interface drag-and-drop permite criar cenários avançados (loops, condições, tratamento erros) que Zapier não suporta, com preço 50-70% menor. Empresas economizam 30-50h/semana automatizando lead nurturing, sincronização dados e processos multicanal com ROI 500%+ vs contratar assistente.
 
 Diferença vs Zapier: Make permite lógica complexa (arrays, JSON parsing, múltiplos branches) enquanto Zapier foca em automações lineares simples (trigger → action).
 

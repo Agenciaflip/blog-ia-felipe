@@ -553,13 +553,13 @@ Abordar: Por que hesitou? (objeções específicas)
 
 ### 1. ChatGPT Playground (OpenAI)
 
-**URL:** [https://platform.openai.com/playground](https://platform.openai.com/playground)
+**URL:** [OpenAI Playground](https://platform.openai.com/playground)
 
 **Recursos:**
 - ✅ Testar parâmetros (temperature, top_p)
 - ✅ Comparar modelos (GPT-4 vs 3.5)
 - ✅ Salvar prompts favoritos
-- ✅ Ver tokens consumidos
+- ✅ Ver tokens consumidos via [OpenAI Platform](https://platform.openai.com)
 
 ### 2. PromptPerfect (otimizador)
 

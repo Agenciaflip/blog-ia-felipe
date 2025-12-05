@@ -124,7 +124,7 @@ Analise e responda:
 Gerar: Gráfico + Tabela + Recomendações
 ```
 
-**ChatGPT Advanced Data Analysis:** Processa + Visualiza
+**[ChatGPT Advanced Data Analysis](https://openai.com/index/chatgpt-can-now-see-hear-and-speak/):** Processa + Visualiza
 
 ### 7. Brainstorm Criativo
 
@@ -219,7 +219,7 @@ Formato: Troubleshooting checklist
 4. Output: Relatório + emails draft pra revisar
 ```
 
-**Tempo:** 5 min (vs 40 min manual)
+**Tempo:** 5 min (vs 40 min manual). Automatize com [Zapier](https://zapier.com) ou [Make](https://www.make.com)
 
 ### Workflow 2: Relatório Semanal Automático
 
